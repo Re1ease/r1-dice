@@ -1,2 +1,3 @@
-# r1-dice
-Just roll a dice...
+## The command is registered through a QBCore function. FYI. 
+
+### Don't forget to throw the assets/dice.ogg into your interact-sound script. It's a dependency. Or remove the dependency if you don't want to use the sound. You'd also have to remove the server event trigger from the client file if you decide to remove the dependency.
