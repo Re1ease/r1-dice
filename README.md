@@ -4,4 +4,5 @@ Don't forget to throw the assets/dice.ogg into your interact-sound script. It's 
 
 0.05ms while drawing text.
 
-Showcase: https://streamable.com/l1wlxq
+Video Showcase: https://streamable.com/l1wlxq
+![Dice Showcase]([http://url/to/img.png](https://imgur.com/jqN64tA))
